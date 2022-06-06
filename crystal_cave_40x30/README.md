@@ -2,4 +2,4 @@ To make changes to the dungendraft map, you need the [FA Dungeondraft Integratio
 
 Preview:
 
-![crystal cave 40x30 preview](./crytal_cave_40x30_preview.png)
+![crystal cave 40x30 preview](./crystal_cave_40x30_preview.png)
