@@ -340,7 +340,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 4085.66, 1700.24 )",
+			"camera_position": "Vector2( 3534.36, 1673.11 )",
 			"camera_zoom": 2.666667,
 			"guide_position": "null",
 			"trace_image": null,
@@ -444,7 +444,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[FA] Kitchen Accessories"
+					"[FA] Kitchen - Steins"
 				]
 			},
 			"scatter_tags_memory": {
@@ -454,10 +454,10 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "tags",
-				"scroll": 0,
+				"mode": "all",
+				"scroll": 1596,
 				"selected": [
-
+					"res://packs/FA30DD01/textures/objects/Furniture/Cupboards_and_Wardrobes/Cupboard_Wood_Dark_G1_2x1.webp"
 				],
 				"search_strictness": 0.67
 			},
@@ -476,7 +476,7 @@
 		"format": 3,
 		"width": 40,
 		"height": 30,
-		"next_node_id": "36c",
+		"next_node_id": "3c3",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -2095,6 +2095,16 @@
 							"width": 512,
 							"type": 0,
 							"node_id": "367"
+						},
+						{
+							"position": "Vector2( 0, 0 )",
+							"rotation": 0,
+							"scale": "Vector2( 1, 1 )",
+							"points": "PoolVector2Array( 2816, 1984, 4352, 1984 )",
+							"texture": "res://packs/FA30DD06/textures/roofs/Roof_A1_Wood_Ashen_Gray/tiles.png",
+							"width": 576,
+							"type": 0,
+							"node_id": "3c2"
 						}
 					]
 				},
@@ -3979,6 +3989,28 @@
 				],
 				"objects": [
 					{
+						"position": "Vector2( 6998.89, 925.107 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cupboards_and_Wardrobes/Cupboard_Wood_Dark_G1_2x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3b8"
+					},
+					{
+						"position": "Vector2( 7682.09, 2619.51 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Rugs_and_Carpets/Animal_Rugs/Rug_Fur_A_04_2x2.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3b7"
+					},
+					{
 						"position": "Vector2( 7174.35, 1282.62 )",
 						"rotation": 1.570796,
 						"scale": "Vector2( 1, 1 )",
@@ -4457,6 +4489,308 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "329"
+					},
+					{
+						"position": "Vector2( 8343.66, 870.972 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Mirrors/Mirror_Wood_Dark_A_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "391"
+					},
+					{
+						"position": "Vector2( 8177.26, 1150.97 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Storage/Chests/Chest_Wood_Light_F_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "392"
+					},
+					{
+						"position": "Vector2( 7007.66, 1309.37 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Paper_Goods/Maps/Map_Torn_C1_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "396"
+					},
+					{
+						"position": "Vector2( 7073.26, 1422.97 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Paper_Goods/Newspapers/Newspaper_Yellowed_B1_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "397"
+					},
+					{
+						"position": "Vector2( 7071.93, 1264.84 )",
+						"rotation": -2.879791,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Paper_Goods/Newspapers/Newspaper_Yellowed_A3_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "398"
+					},
+					{
+						"position": "Vector2( 7553.79, 1129.37 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Seating/Couches/Couch_Wood_Ashen_Fabric_Blue_A_2x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "39c"
+					},
+					{
+						"position": "Vector2( 7557.79, 870.706 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Potted_Plants/Potted_Plant_Green_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "39d"
+					},
+					{
+						"position": "Vector2( 7607.12, 1085.37 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Lanterns/Wall_Lantern_Metal_Gray_B_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "39e"
+					},
+					{
+						"position": "Vector2( 6980.46, 1433.37 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Writing_Implements/Ink_Bottle_B_Spilled_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a0"
+					},
+					{
+						"position": "Vector2( 7008.46, 1400.04 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Writing_Implements/Quill_A_White_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a1"
+					},
+					{
+						"position": "Vector2( 7015.12, 1136.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Candles/Candle_White_E_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a2"
+					},
+					{
+						"position": "Vector2( 7167.12, 1706.71 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Shelves/Bookshelves/Bookcase_Wood_Light_C_2x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a3"
+					},
+					{
+						"position": "Vector2( 7303.12, 1721.37 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Workplace_Equipment/Tools/Misc/Yarn_Ball_Green_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a4"
+					},
+					{
+						"position": "Vector2( 7264.46, 1722.71 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Workplace_Equipment/Tools/Misc/Yarn_Ball_Orange_B_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a5"
+					},
+					{
+						"position": "Vector2( 7219.12, 1702.71 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Workplace_Equipment/Tools/Misc/Yarn_Spool_Wood_Ashen_A_Blue_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a6"
+					},
+					{
+						"position": "Vector2( 8312.46, 2930.71 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD05/textures/objects/Natural_Decor/Webs/Cobwebs/Cobweb_White_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a9"
+					},
+					{
+						"position": "Vector2( 8077.79, 2934.71 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( -1, 1 )",
+						"mirror": true,
+						"texture": "res://packs/FA30DD05/textures/objects/Natural_Decor/Webs/Cobwebs/Cobweb_White_A8_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3aa"
+					},
+					{
+						"position": "Vector2( 7632.46, 2960.04 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Bedding/Beds/Pillows/Pillow_White_C_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "3ab"
+					},
+					{
+						"position": "Vector2( 8175.12, 1188.04 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Grooming/Brushes/Brush_Wood_Dark_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "3ac"
+					},
+					{
+						"position": "Vector2( 8183.12, 1124.04 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Grooming/Combs/Comb_Wood_Ashen_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3ad"
+					},
+					{
+						"position": "Vector2( 7892.46, 1704.04 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cupboards_and_Wardrobes/Cupboard_Wood_Dark_F2_2x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3ae"
+					},
+					{
+						"position": "Vector2( 7941.03, 1712.04 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Washing/Basins/Wash_Basin_Metal_Rusty_A_Full_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3af"
+					},
+					{
+						"position": "Vector2( 7865.03, 1720.54 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Grooming/Straight_Razor_Wood_Ashen_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3b0"
+					},
+					{
+						"position": "Vector2( 7832.03, 1694.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Grooming/Soaps/Soap_Blue_B_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3b1"
+					},
+					{
+						"position": "Vector2( 7768.36, 890.374 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cupboards_and_Wardrobes/Nightstands/Nightstand_Wood_Dark_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3b2"
+					},
+					{
+						"position": "Vector2( 7761.69, 898.374 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Candles/Candle_Colorable_E_1x1.png",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "3b4"
+					},
+					{
+						"position": "Vector2( 8384.49, 2216.31 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Potted_Plants/Potted_Plant_Multicolor1_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff685848",
+						"node_id": "3b6"
 					}
 				],
 				"lights": [
@@ -4477,7 +4811,7 @@
 			"2": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": false,
+					"baked_lighting": true,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -6347,7 +6681,7 @@
 				"water": {
 					"disable_border": false,
 					"tree": {
-						"ref": -854179482,
+						"ref": 1807118118,
 						"polygon": "PoolVector2Array(  )",
 						"join": 0,
 						"end": 0,
@@ -6690,29 +7024,106 @@
 				],
 				"objects": [
 					{
-						"position": "Vector2( 7437.02, 1254.62 )",
-						"rotation": -2.356194,
+						"position": "Vector2( 7753.26, 1681.64 )",
+						"rotation": 1.570796,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Washing/Sinks/Sink_Wood_Dark_A_1x1.webp",
 						"layer": 300,
 						"shadow": false,
 						"block_light": false,
-						"node_id": "348"
+						"node_id": "399"
 					},
 					{
-						"position": "Vector2( 7466.35, 1262.62 )",
-						"rotation": -2.617994,
+						"position": "Vector2( 7855.33, 1687.77 )",
+						"rotation": -3.141593,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Tables/Desks/Desk_Rectangle_Wood_Dark_B1_2x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "375"
+					},
+					{
+						"position": "Vector2( 8404.33, 971.773 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Pans_and_Pots/Pan_Metal_Gray_F2_1x1.webp",
 						"layer": 300,
 						"shadow": false,
 						"block_light": false,
-						"node_id": "347"
+						"node_id": "374"
 					},
 					{
-						"position": "Vector2( 7602.35, 1207.96 )",
+						"position": "Vector2( 8335.33, 1067.77 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Pans_and_Pots/Pan_Metal_Gray_E1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "373"
+					},
+					{
+						"position": "Vector2( 8357.33, 804.773 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Pans_and_Pots/Pan_Metal_Gray_F3_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "372"
+					},
+					{
+						"position": "Vector2( 8245.33, 803.773 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Pans_and_Pots/Pan_Metal_Gray_D2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "371"
+					},
+					{
+						"position": "Vector2( 7557.33, 1187.77 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Dishes/Plates/Platter_Wood_Ashen_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "370"
+					},
+					{
+						"position": "Vector2( 7274.33, 1244.77 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Cutlery/Table_Knife_Metal_Gray_B_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "36f"
+					},
+					{
+						"position": "Vector2( 8318.33, 1064.77 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cooking_Appliances/Stove_Gray_Addon_A_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "36e"
+					},
+					{
+						"position": "Vector2( 7609.35, 1217.96 )",
 						"rotation": 2.617994,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -6723,7 +7134,7 @@
 						"node_id": "346"
 					},
 					{
-						"position": "Vector2( 7541.02, 1178.62 )",
+						"position": "Vector2( 7638.02, 1196.62 )",
 						"rotation": 2.617994,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -6734,7 +7145,7 @@
 						"node_id": "345"
 					},
 					{
-						"position": "Vector2( 7561.02, 1230.62 )",
+						"position": "Vector2( 7571.02, 1224.62 )",
 						"rotation": 2.617994,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -6745,7 +7156,7 @@
 						"node_id": "344"
 					},
 					{
-						"position": "Vector2( 7471.69, 1181.29 )",
+						"position": "Vector2( 7507.69, 1187.29 )",
 						"rotation": 2.617994,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -6756,7 +7167,7 @@
 						"node_id": "343"
 					},
 					{
-						"position": "Vector2( 7593.02, 1145.29 )",
+						"position": "Vector2( 7572.02, 1172.29 )",
 						"rotation": 1.570796,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -8908,17 +9319,6 @@
 						"node_id": "19e"
 					},
 					{
-						"position": "Vector2( 7454.35, 1255.96 )",
-						"rotation": -2.356194,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
-						"layer": 300,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "349"
-					},
-					{
 						"position": "Vector2( 7386.35, 1235.96 )",
 						"rotation": -2.356194,
 						"scale": "Vector2( 1, 1 )",
@@ -9051,7 +9451,7 @@
 						"node_id": "355"
 					},
 					{
-						"position": "Vector2( 7501.02, 1107.96 )",
+						"position": "Vector2( 7503.02, 1090.96 )",
 						"rotation": -1.570796,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -9060,6 +9460,403 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "356"
+					},
+					{
+						"position": "Vector2( 8321.33, 909.773 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cooking_Appliances/Stove_Gray_Small_C_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "36d"
+					},
+					{
+						"position": "Vector2( 4966.06, 230.973 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD15/textures/objects/Furniture/Tables/Rectangle_Tables/Fallen/Tabletop_Rectangle_Fallen_Wood_Ashen_A1_2x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "376"
+					},
+					{
+						"position": "Vector2( 7226.86, 1434.17 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Pitchers/Pitcher_Wood_Ashen_A1_Water_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "377"
+					},
+					{
+						"position": "Vector2( 8258.86, 952.573 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Tea_Kettles/Tea_Kettle_Metal_Gray_A1_Beer_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff6b3834",
+						"node_id": "378"
+					},
+					{
+						"position": "Vector2( 7929.26, 1680.57 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Dishes/Plates/Platter_Wood_Light_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "379"
+					},
+					{
+						"position": "Vector2( 7138.86, 1315.77 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Dishes/Plates/Bowl_Wood_Light_E_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "37a"
+					},
+					{
+						"position": "Vector2( 7847.66, 1648.57 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Kitchen_Accessories/Spatula_Wood_Ashen_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "37c"
+					},
+					{
+						"position": "Vector2( 7970.86, 1688.57 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "37e"
+					},
+					{
+						"position": "Vector2( 7919.66, 1662.97 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "37f"
+					},
+					{
+						"position": "Vector2( 7953.26, 1699.77 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A3_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "380"
+					},
+					{
+						"position": "Vector2( 7962.86, 1669.37 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A4_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "381"
+					},
+					{
+						"position": "Vector2( 7919.66, 1706.17 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A5_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "382"
+					},
+					{
+						"position": "Vector2( 7994.86, 1688.57 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A5_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "383"
+					},
+					{
+						"position": "Vector2( 7921.26, 1646.97 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A6_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "384"
+					},
+					{
+						"position": "Vector2( 7940.46, 1661.37 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "385"
+					},
+					{
+						"position": "Vector2( 7985.26, 1698.17 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "386"
+					},
+					{
+						"position": "Vector2( 7943.66, 1704.57 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "387"
+					},
+					{
+						"position": "Vector2( 7966.06, 1710.97 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "388"
+					},
+					{
+						"position": "Vector2( 7969.26, 1685.37 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "389"
+					},
+					{
+						"position": "Vector2( 7994.86, 1667.77 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A5_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "38a"
+					},
+					{
+						"position": "Vector2( 8007.66, 1701.37 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A5_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "38b"
+					},
+					{
+						"position": "Vector2( 7908.46, 1701.37 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Fruits/Berries_Blue_A5_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "38c"
+					},
+					{
+						"position": "Vector2( 8361.26, 1270.97 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Furniture/Cupboards_and_Wardrobes/Cupboard_Wood_Dark_G1_2x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "38d"
+					},
+					{
+						"position": "Vector2( 8375.66, 1259.77 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Kitchen_Knifes/Cleaver_Wood_Light_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "38e"
+					},
+					{
+						"position": "Vector2( 7679.66, 854.973 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Lanterns/Wall_Lantern_Metal_Gray_B_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "390"
+					},
+					{
+						"position": "Vector2( 8386.86, 2110.97 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD04/textures/objects/Workplace_Equipment/Tools/Long_Handled/Broom_Wood_Ashen_A2_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "393"
+					},
+					{
+						"position": "Vector2( 8258.86, 2475.77 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Candles/Candle_Yellow_E_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "394"
+					},
+					{
+						"position": "Vector2( 8172.46, 2998.97 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD02/textures/objects/Lightsources/Candles/Candle_Yellow_E_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "395"
+					},
+					{
+						"position": "Vector2( 8351.66, 1331.77 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Kitchenware/Kitchen_Knifes/Knife_Wood_Dark_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "37d"
+					},
+					{
+						"position": "Vector2( 7151.15, 1325.92 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "347"
+					},
+					{
+						"position": "Vector2( 7117.72, 1300.72 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "348"
+					},
+					{
+						"position": "Vector2( 7133.95, 1312.86 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Food/Vegetables/Carrot_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "349"
+					},
+					{
+						"position": "Vector2( 7827.13, 1736.04 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Writing_Implements/Ink_Bottle_A_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "39a"
+					},
+					{
+						"position": "Vector2( 4387.13, 472.039 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Clutter/Ropes_and_Nets/Rope_Brown_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "39b"
+					},
+					{
+						"position": "Vector2( 7061.79, 906.707 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Potted_Plants/Potted_Plant_Green_C1_2x2.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a7"
+					},
+					{
+						"position": "Vector2( 8373.79, 2990.71 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/FA30DD01/textures/objects/Decor/Potted_Plants/Potted_Plant_Multicolor1_A1_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "3a8"
 					}
 				],
 				"lights": [
